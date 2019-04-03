@@ -20,6 +20,7 @@ and run the application using the following command:
 Examples:
 
 http://127.0.0.1:5000/games
+
 http://127.0.0.1:5000/games?category=Console%20classics
 
 
